@@ -59,9 +59,7 @@ Ecommerce-sales-analysis/
 
 ## 📸 Dashboard Preview
 
-> 📌 *Add a screenshot of your dashboard here*  
-> *(Upload an image to the repo and replace this line with:)*  
-> `![Dashboard Preview](screenshots/dashboard_preview.png)`
+>  ![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ---
 
