@@ -51,15 +51,14 @@ To analyze e-commerce sales data and build a dynamic dashboard that provides:
 Ecommerce-sales-analysis/
 │
 ├── 📊 ecommerce_analysis_Dashboard.xlsx   # Main Excel dashboard file
-├── 📸 screenshots/                      # Dashboard preview images
-│   └── Dashboard_screenshot.png
+├── 📸  Dashboard_screenshot.png     # Dashboard preview images
 └── 📄 README.md                         # Project documentation
 ```
 
 
 ## 📸 Dashboard Preview
 
->  ![Dashboard Preview](screenshots/dashboard_preview.png)
+>  ![Dashboard Preview](Dashboard_screenshot.png)
 
 ---
 
